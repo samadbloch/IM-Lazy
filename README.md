@@ -1,7 +1,6 @@
-# IM-Lazy
-Script To Perform Network reconnaissance Using Nmap
-
 # IM-Lazy v1.0
+# Script To Perform Network reconnaissance Using Nmap
+
 ## Author: github.com/samadbloch
 ## Instagram: instagram.com/samad_bl0h
  
