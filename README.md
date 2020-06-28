@@ -18,5 +18,6 @@ Script To Perform Network reconnaissance Using Nmap
 ```
 git clone https://github.com/samadbloch/IM-Lazy
 cd IM-Lazy
+chmod +x install.c && chmod +x Im-Lazy.c
 ./install.c
 ```
