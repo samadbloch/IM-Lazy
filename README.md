@@ -2,7 +2,7 @@
 # Script To Perform Network reconnaissance Using Nmap
 
 ## Author: github.com/samadbloch
-## Instagram: instagram.com/samad_bl0h
+## Instagram: instagram.com/samad_bl0ch
  
 ### This script use Nmap to perform automate scanning
 ## You need to save your target IP address into target.txt
