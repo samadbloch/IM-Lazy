@@ -9,8 +9,7 @@ Update Option is Not Available Yet.
 ### This script use Nmap to perform automate scanning
 ## You need to save your target IP address into target.txt
 
-
-
+This tool perform Network reconnaissance using nmap to finde Vulnerability,RCE and other misconfiguaration.
 
 ![shellp](https://github.com/samadbloch/IM-Lazy/raw/master/Screenshot_20200627_230817.png)
 ![shellp](https://github.com/samadbloch/IM-Lazy/raw/master/Screenshot_20200627_230942.png)
